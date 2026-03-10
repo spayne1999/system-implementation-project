@@ -1,3 +1,17 @@
-Demo video explaining the project implementation plan.
+Demo Video Script
 
-Video link will be added here.
+Hello, my name is Seth Payne.
+
+This project presents a system implementation plan for deploying a secure banking information system for Northwest Regional Bank.
+
+The project explains how system implementation fits into the SDLC and why Agile was selected as the development methodology. It also includes planning objectives, a project timeline, and a risk assessment matrix.
+
+A parallel installation approach was selected to reduce operational risk during the transition from the old banking system to the new one.
+
+The data migration plan uses the ETL process, which stands for Extract, Transform, and Load. This ensures that data is cleaned, converted, and validated before it is moved into the new system.
+
+The testing plan includes unit testing, integration testing, system testing, and acceptance testing. Tools such as Selenium, JUnit, and Postman can be used to support testing.
+
+Overall, this implementation strategy helps ensure a secure, accurate, and successful deployment of the new banking information system.
+
+Video link will be added here after recording.
