@@ -1,6 +1,8 @@
-This folder contains project diagrams and charts:
+# Visual Elements
 
-• Gantt Chart
-• Risk Assessment Matrix
-• ETL Data Migration Diagram
-• Test Plan Table
+This folder contains the visual and supporting project materials for the system implementation plan:
+
+- Gantt chart / timeline
+- Risk assessment matrix
+- ETL data migration flow
+- Test plan and test cases
